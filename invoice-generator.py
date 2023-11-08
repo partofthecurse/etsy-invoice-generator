@@ -28,7 +28,7 @@ import os
 
 #this are the files we need in the same folder
 filepath = os.path.dirname(os.path.abspath(__file__))
-templateFile = filepath + "/rechnung-template.svg"
+templateFile = filepath + "/invoice-template.svg"
 inputCSV = filepath + "/orders.csv"
 
 #this is the svg namespace
