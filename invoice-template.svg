@@ -7,7 +7,7 @@
    width="793.70667"
    height="1122.52"
    viewBox="0 0 793.70667 1122.52"
-   sodipodi:docname="rechnung-template-example.svg"
+   sodipodi:docname="invoice-template.svg"
    inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -24,14 +24,14 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="0.93187285"
-     inkscape:cx="61.703697"
+     inkscape:cx="62.240251"
      inkscape:cy="622.93906"
-     inkscape:window-width="2560"
-     inkscape:window-height="1494"
-     inkscape:window-x="-11"
+     inkscape:window-width="5160"
+     inkscape:window-height="2054"
+     inkscape:window-x="3829"
      inkscape:window-y="-11"
      inkscape:window-maximized="1"
-     inkscape:current-layer="contentGroup0">
+     inkscape:current-layer="ArticleRow0">
     <inkscape:page
        x="0"
        y="0"
@@ -104,8 +104,8 @@
     <rect
        x="220.26161"
        y="242.58767"
-       width="375.09482"
-       height="17.055007"
+       width="372.9486"
+       height="37.444055"
        id="rect7" />
     <rect
        x="220.26161"
@@ -321,9 +321,9 @@
        transform="translate(-143.09766,-1.4088946)"><tspan
          x="220.26172"
          y="251.76632"
-         id="tspan48"><tspan
+         id="tspan6"><tspan
            style="font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#000000;stroke:none"
-           id="tspan47">%Name%</tspan></tspan></text>
+           id="tspan1">%Name%</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text83"
@@ -331,9 +331,9 @@
        transform="matrix(0.75508629,0,0,0.75508629,424.18252,119.16351)"><tspan
          x="220.26172"
          y="254.74334"
-         id="tspan50"><tspan
+         id="tspan8"><tspan
            style="fill:#000000;stroke:none"
-           id="tspan49">%BestellDatum%</tspan></tspan></text>
+           id="tspan7">%BestellDatum%</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text1"
@@ -341,9 +341,9 @@
        transform="translate(-143.09766,16.571571)"><tspan
          x="220.26172"
          y="251.76632"
-         id="tspan52"><tspan
+         id="tspan10"><tspan
            style="font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#000000;stroke:none"
-           id="tspan51">%Strasse%</tspan></tspan></text>
+           id="tspan9">%Strasse%</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text5"
@@ -351,9 +351,9 @@
        transform="translate(-144.01953,34.938762)"><tspan
          x="220.26172"
          y="251.76632"
-         id="tspan54"><tspan
+         id="tspan12"><tspan
            style="font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#000000;stroke:none"
-           id="tspan53">%PLZ%</tspan></tspan></text>
+           id="tspan11">%PLZ%</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text6"
@@ -361,9 +361,9 @@
        transform="translate(-96.01953,34.938762)"><tspan
          x="220.26172"
          y="251.76632"
-         id="tspan56"><tspan
+         id="tspan14"><tspan
            style="font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#000000;stroke:none"
-           id="tspan55">%Stadt%</tspan></tspan></text>
+           id="tspan13">%Stadt%</tspan></tspan></text>
     <g
        id="tabelle">
       <path
@@ -452,9 +452,9 @@
            transform="translate(-140.17578,170.69657)"><tspan
              x="220.26172"
              y="252.78612"
-             id="tspan58"><tspan
+             id="tspan16"><tspan
                style="font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#000000;stroke:none"
-               id="tspan57">%Artikel%</tspan></tspan></text>
+               id="tspan15">%Artikel%</tspan></tspan></text>
         <text
            xml:space="preserve"
            id="text8"
@@ -462,9 +462,9 @@
            transform="translate(-100.85937,212.39875)"><tspan
              x="220.26172"
              y="249.72667"
-             id="tspan60"><tspan
+             id="tspan18"><tspan
                style="font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#000000;stroke:none"
-               id="tspan59">%ArtikelNr%</tspan></tspan></text>
+               id="tspan17">%ArtikelNr%</tspan></tspan></text>
         <text
            xml:space="preserve"
            id="text9"
@@ -472,9 +472,9 @@
            transform="translate(245.22656,170.69657)"><tspan
              x="220.26172"
              y="252.78612"
-             id="tspan62"><tspan
+             id="tspan20"><tspan
                style="font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#000000;stroke:none"
-               id="tspan61">%Anzahl%</tspan></tspan></text>
+               id="tspan19">%Anzahl%</tspan></tspan></text>
         <text
            xml:space="preserve"
            id="text10"
@@ -484,9 +484,9 @@
            y="0"><tspan
              x="315.49167"
              y="252.78612"
-             id="tspan64"><tspan
+             id="tspan22"><tspan
                style="font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:end;text-anchor:end;fill:#000000;stroke:none"
-               id="tspan63">%Preis%</tspan></tspan></text>
+               id="tspan21">%Preis%</tspan></tspan></text>
         <path
            id="path30"
            d="m 715.97536,414.55303 c -1.24219,0 -2.01563,0.78906 -2.32813,2.35937 h 2.98438 v 0.76563 h -3.0625 l -0.0156,0.32812 v 0.375 l 0.0156,0.26563 h 2.70312 v 0.75 h -2.60937 c 0.14453,0.71094 0.41406,1.25781 0.8125,1.64062 0.39453,0.38672 0.92187,0.57813 1.57812,0.57813 0.61329,0 1.21875,-0.12891 1.8125,-0.39063 v 0.875 c -0.5625,0.26172 -1.18359,0.39063 -1.85937,0.39063 -0.91797,0 -1.66406,-0.25781 -2.23438,-0.78125 -0.5625,-0.53125 -0.93359,-1.30078 -1.10937,-2.3125 h -0.96875 v -0.75 h 0.89062 l -0.0156,-0.25 v -0.25 l 0.0156,-0.46875 h -0.89062 v -0.76563 h 0.95312 c 0.15625,-1.01953 0.51563,-1.8125 1.07813,-2.375 0.57031,-0.57031 1.32031,-0.85937 2.25,-0.85937 0.78906,0 1.50391,0.1875 2.14062,0.5625 l -0.40625,0.8125 c -0.64843,-0.33203 -1.22656,-0.5 -1.73437,-0.5 z m 0,0"
@@ -564,9 +564,9 @@
          y="0"><tspan
            x="252.23011"
            y="252.78612"
-           id="tspan66"><tspan
+           id="tspan24"><tspan
              style="font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:end;text-anchor:end;fill:#000000;stroke:none"
-             id="tspan65">%VersandKosten%</tspan></tspan></text>
+             id="tspan23">%VersandKosten%</tspan></tspan></text>
       <g
          id="HinweisZwischenSumme">
         <path
@@ -604,9 +604,9 @@
            y="0"><tspan
              x="240.59603"
              y="252.78612"
-             id="tspan68"><tspan
+             id="tspan26"><tspan
                style="font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:end;text-anchor:end;fill:#000000;stroke:none"
-               id="tspan67">%ZwischenSumme%</tspan></tspan></text>
+               id="tspan25">%ZwischenSumme%</tspan></tspan></text>
         <path
            id="path17"
            d="m 715.97536,562.59246 c -1.24219,0 -2.01563,0.78906 -2.32813,2.35937 h 2.98438 v 0.76563 h -3.0625 l -0.0156,0.32812 v 0.375 l 0.0156,0.26563 h 2.70312 v 0.75 h -2.60937 c 0.14453,0.71094 0.41406,1.25781 0.8125,1.64062 0.39453,0.38672 0.92187,0.57813 1.57812,0.57813 0.61329,0 1.21875,-0.12891 1.8125,-0.39063 v 0.875 c -0.5625,0.26172 -1.18359,0.39063 -1.85937,0.39063 -0.91797,0 -1.66406,-0.25781 -2.23438,-0.78125 -0.5625,-0.53125 -0.93359,-1.30078 -1.10937,-2.3125 h -0.96875 v -0.75 h 0.89062 l -0.0156,-0.25 v -0.25 l 0.0156,-0.46875 h -0.89062 v -0.76563 h 0.95312 c 0.15625,-1.01953 0.51563,-1.8125 1.07813,-2.375 0.57031,-0.57031 1.32031,-0.85937 2.25,-0.85937 0.78906,0 1.50391,0.1875 2.14062,0.5625 l -0.40625,0.8125 c -0.64843,-0.33203 -1.22656,-0.5 -1.73437,-0.5 z m 0,0"
@@ -622,9 +622,9 @@
          y="0"><tspan
            x="260.09467"
            y="252.78612"
-           id="tspan70"><tspan
+           id="tspan28"><tspan
              style="font-weight:bold;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:end;text-anchor:end;fill:#000000;stroke:none"
-             id="tspan69">%PreisGesamt%</tspan></tspan></text>
+             id="tspan27">%PreisGesamt%</tspan></tspan></text>
       <text
          xml:space="preserve"
          id="MWST"
@@ -634,9 +634,9 @@
          y="0"><tspan
            x="307.21044"
            y="252.78612"
-           id="tspan72"><tspan
+           id="tspan30"><tspan
              style="font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:end;text-anchor:end;fill:#000000;stroke:none"
-             id="tspan71">%MWST%</tspan></tspan></text>
+             id="tspan29">%MWST%</tspan></tspan></text>
       <path
          id="path32"
          d="m 715.97536,684.82423 c -1.24219,0 -2.01563,0.78906 -2.32813,2.35937 h 2.98438 v 0.76563 h -3.0625 l -0.0156,0.32812 v 0.375 l 0.0156,0.26563 h 2.70312 v 0.75 h -2.60937 c 0.14453,0.71094 0.41406,1.25781 0.8125,1.64062 0.39453,0.38672 0.92187,0.57813 1.57812,0.57813 0.61329,0 1.21875,-0.12891 1.8125,-0.39063 v 0.875 c -0.5625,0.26172 -1.18359,0.39063 -1.85937,0.39063 -0.91797,0 -1.66406,-0.25781 -2.23438,-0.78125 -0.5625,-0.53125 -0.93359,-1.30078 -1.10937,-2.3125 h -0.96875 v -0.75 h 0.89062 l -0.0156,-0.25 v -0.25 l 0.0156,-0.46875 h -0.89062 v -0.76563 h 0.95312 c 0.15625,-1.01953 0.51563,-1.8125 1.07813,-2.375 0.57031,-0.57031 1.32031,-0.85937 2.25,-0.85937 0.78906,0 1.50391,0.1875 2.14062,0.5625 l -0.40625,0.8125 c -0.64843,-0.33203 -1.22656,-0.5 -1.73437,-0.5 z m 0,0"
@@ -650,9 +650,9 @@
        transform="translate(370.2374,79.600574)"><tspan
          x="220.26172"
          y="251.76632"
-         id="tspan74"><tspan
+         id="tspan32"><tspan
            style="font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#000000;stroke:none"
-           id="tspan73">Etsy Payments</tspan></tspan></text>
+           id="tspan31">Etsy Payments</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text34"
@@ -660,9 +660,9 @@
        transform="matrix(0.75508629,0,0,0.75508629,424.18252,99.810846)"><tspan
          x="220.26172"
          y="254.74334"
-         id="tspan76"><tspan
+         id="tspan34"><tspan
            style="fill:#000000;stroke:none"
-           id="tspan75">%BestellNr%</tspan></tspan></text>
+           id="tspan33">%BestellNr%</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text35"
@@ -670,9 +670,9 @@
        transform="matrix(0.75508629,0,0,0.75508629,424.18252,79.412406)"><tspan
          x="220.26172"
          y="254.74334"
-         id="tspan78"><tspan
+         id="tspan36"><tspan
            style="fill:#000000;stroke:none"
-           id="tspan77">%DatumRechnung%</tspan></tspan></text>
+           id="tspan35">%DatumRechnung%</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text36"
@@ -680,9 +680,9 @@
        transform="matrix(0.75508629,0,0,0.75508629,424.18252,59.853814)"><tspan
          x="220.26172"
          y="254.74334"
-         id="tspan80"><tspan
+         id="tspan38"><tspan
            style="fill:#000000;stroke:none"
-           id="tspan79">%NrRechnung%</tspan></tspan></text>
+           id="tspan37">%NrRechnung%</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="SeitenZahl"
@@ -692,9 +692,9 @@
        y="0"><tspan
          x="281.00608"
          y="252.78612"
-         id="tspan82"><tspan
+         id="tspan40"><tspan
            style="font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:end;text-anchor:end;fill:#000000;stroke:none"
-           id="tspan81">%SeitenZahl%</tspan></tspan></text>
+           id="tspan39">%SeitenZahl%</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="MaxSeitenZahl"
@@ -704,9 +704,9 @@
        y="0"><tspan
          x="220.26172"
          y="252.78612"
-         id="tspan84"><tspan
+         id="tspan42"><tspan
            style="font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#000000;stroke:none"
-           id="tspan83">%MaxSeitenZahl%</tspan></tspan></text>
+           id="tspan41">%MaxSeitenZahl%</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text11"
@@ -716,7 +716,7 @@
        y="0"><tspan
          x="220.26172"
          y="252.23481"
-         id="tspan85">/</tspan></text>
+         id="tspan43">/</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:21.3333px;line-height:0.96;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#000000;stroke-width:0.793701;stroke-linecap:round;stroke-linejoin:round"
@@ -771,10 +771,10 @@
        transform="translate(17.161265,131.47613)"><tspan
          x="223.74512"
          y="893.84366"
-         id="tspan86">Your Company | Your Name | Adress 123 | 45678 Place&#10;</tspan><tspan
+         id="tspan47">Your Company | Your Name | Adress 123 | 45678 Place&#10;</tspan><tspan
          x="278.08203"
          y="908.96366"
-         id="tspan87">VAT-ID: 123456789 | mail@mail.com</tspan></text>
+         id="tspan48">VAT-ID: 123456789 | mail@mail.com</tspan></text>
     <rect
        style="fill:#b3b3b3;stroke-width:0.793701;stroke-linecap:round;stroke-linejoin:round"
        id="rect47"
