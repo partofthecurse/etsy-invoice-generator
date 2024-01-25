@@ -117,7 +117,7 @@ with open(inputCSV) as csvfile:
             print("replaced RechnungsNr")
 
             #Fill in Article Stuff that is static
-            newdata = newdata.replace(platzhalterVersandkosten,row[9])
+            newdata = newdata.replace(platzhalterVersandkosten,format(float(row[9]), '.2f'))
             print("replaced Versandkosten zu: "+ str(format(float(row[9]), '.2f'))) 
 
         #we do this on every loop
@@ -389,7 +389,7 @@ with open(inputCSV) as csvfile:
             print("replaced RechnungsNr")
 
             #Fill in Article Stuff that is static
-            newdata = newdata.replace(platzhalterVersandkosten,row[9])
+            newdata = newdata.replace(platzhalterVersandkosten,format(float(row[9]), '.2f'))
             print("replaced Versandkosten zu: "+ str(format(float(row[9]), '.2f')))   
 
             p=p+1 
